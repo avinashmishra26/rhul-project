@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+glove/
+train_data/Images
+train_data/encoded_flickr_training_images.pkl
+
 # C extensions
 *.so
 
